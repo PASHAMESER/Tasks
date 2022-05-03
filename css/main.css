@@ -62,6 +62,8 @@ position: relative;
     display: block;
     background-color: #fff;
     padding: 10px;
+    transition: 0.3s;
+    transform: rotateY(0deg);
 }
 
 .todo-container .tasks-content > span:not(:last-child){
